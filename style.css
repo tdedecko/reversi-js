@@ -1,0 +1,13 @@
+.board { display: inline-block; border: 1px solid #000000;}
+.box { border: 1px solid #AAAAAA; display: inline-block; background-color: #348017; width: 40px; height: 40px; }
+.marker { -moz-border-radius: 20px; -webkit-border-radius: 20px; border: 0px solid #FFFFFF; display: inline-block; width: 40px; height: 40px; }
+.empty { background-color: #348017; }
+.dark { background-color: #000000; }
+.light { background-color: #FFFFFF; }
+.grayoff { background-color: #348017; cursor: pointer;}
+.grayonlight { background-color: #8BB381; cursor: pointer;}
+.grayondark { background-color: #006307; cursor: pointer;}
+.turn {font-size: 2.0em; font-family: Sans-serif; font-weight: bold;}
+.message {font-size: 1.5em; font-family: Sans-serif; font-weight: bold;}
+a.again {font-size: 1.3em; font-family: Sans-serif; cursor: pointer;}
+a.again:hover {text-decoration:underline;}

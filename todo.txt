@@ -1,0 +1,3 @@
+-seperate game logic and draw logic
+-restructure with oop
+-implement html 5 canvas
